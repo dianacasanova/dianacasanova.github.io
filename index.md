@@ -1,7 +1,7 @@
 <table>
 <tbody>
 <tr valign="top">
-<td style="vertical-align:top;width:350px;margin: 0 auto;padding: 1em;"><img alt="" src="/images/IMG_DC_cropheadshot_resized_small.jpg" style="width: 400px; height: 700px;" /></td>
+<td style="vertical-align:top;width:500px;margin: 0 auto;padding: 1em;"><img alt="" src="/images/IMG_DC_cropheadshot_resized_small.jpg" style="width: 400px; height: 700px;" /></td>
 <td style="vertical-align:top;width:400px;margin: 0 auto;padding: 1em;">
 <p> Research Interests: I am interested in understanding how historically marginalized people are motivated and empowered, individually and collectively, to change institutions so that they better serve and address their needs. And then to better understand what impact, if any, they wield on the institution.</p>
     <p>&nbsp;</p>
@@ -13,8 +13,14 @@
  </p>
     <p>&nbsp;</p>
  </td>
+</tr>
+</tbody>
+</table>
 
-    <td style="vertical-align:top;width:350px;margin: 0 auto;padding: 1em;"><img alt="" src="/images/LCAP_PSAC_collage.jpg" style="width: 960px; height: 540px;" /></td>
+<table>
+<tbody>
+<tr valign="top">
+    <td style="vertical-align:top;width:1000px;margin: 0 auto;padding: 1em;"><img alt="" src="/images/LCAP_PSAC_collage.jpg" style="width: 960px; height: 540px;" /></td>
     
 </tr>
 </tbody>
