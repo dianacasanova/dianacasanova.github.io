@@ -22,8 +22,7 @@
 <table>
 <tbody>
 <tr valign="top">
-    <td style="vertical-align:top;width:1000px;margin: 0 auto;padding: 1em;"><img alt="" src="/images/LCAP_PSAC_collage.jpg" style="width: 960px; height: 540px;" /></td> <br> <p> caption here </p>
-    
+    <td style="vertical-align:top;width:1000px;margin: 0 auto;padding: 1em;"><img alt="" src="/images/LCAP_PSAC_collage.jpg" style="width: 960px; height: 540px;" /> </td> 
 </tr>
 </tbody>
 </table>
