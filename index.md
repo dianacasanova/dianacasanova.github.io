@@ -11,7 +11,6 @@
     <p>&nbsp;</p>
 <p>I also see that public education is democracy on a miniature scale. It&#39;s a training ground where community and parent advocates cut their teeth in pursuit of more enfranchised lives. Speaking specifically to CA’s finance reform, where urban school districts get more money, have more flexibility in spending this money, and community engagement is mandatory—the setting is ripe to observe and generate questions about the manner in which families and communities build power, as well as their role in affecting institutional change.
  </p>
-    <p>&nbsp;</p>
  </td>
 </tr>
 </tbody>
