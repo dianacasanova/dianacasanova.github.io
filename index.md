@@ -1,8 +1,8 @@
 <table>
 <tbody>
 <tr valign="top">
-<td style="vertical-align:top;width:600px;margin: 0 auto;padding: 1em;"><img alt="" src="/images/IMG_DC_cropheadshot_resized_small.jpg" style="width: 400px; height: 700px;" /></td>
-<td style="vertical-align:top;width:400px;margin: 0 auto;padding: 1em;">
+<td style="vertical-align:top;width:500px;margin: 0 auto;padding: 1em;"><img alt="" src="/images/IMG_DC_cropheadshot_resized_small.jpg" style="width: 500px; height: 667px;" /></td>
+<td style="vertical-align:top;width:500px;margin: 0 auto;padding: 1em;">
 <p> Research Interests: I am interested in understanding how historically marginalized people are motivated and empowered, individually and collectively, to change institutions so that they better serve and address their needs. And then to better understand what impact, if any, they wield on the institution.</p>
     <p>&nbsp;</p>
 <p>I see this public institution of education mediating the change process in a couple of ways:</p>
