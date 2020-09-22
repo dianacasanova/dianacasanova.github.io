@@ -1,7 +1,7 @@
 <center>
 <H2> Diana Casanova: PhD Student | Gradudate School of Education | UC, Berkeley </H2>
    <center>
-       <H4> Fall 2020: <a href="/project1.md"> Project 1 </a> |<a href="/project2.md"> Project 2 </a>| <a href="/project3.md">Project 3 </a> | <a href="/project4.md"> Project 4 </a> </H4> 
+       <H4> Fall 2020: <a href="/project1.html"> Project 1 </a> |<a href="/project2.md"> Project 2 </a>| <a href="/project3.md">Project 3 </a> | <a href="/project4.md"> Project 4 </a> </H4> 
 <table>
 <tbody>
 <tr valign="top">
