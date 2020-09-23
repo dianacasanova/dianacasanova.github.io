@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
@@ -30,7 +29,7 @@
 3. Created my Own Website <br>
         </p>
         
-       <img alt="" src="/images/project1img.PNG" style="width: 958px; height: 449px;" />
+       <img alt="" src="/images/project1img.PNG" style="width: 100%;" />
         
         </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
