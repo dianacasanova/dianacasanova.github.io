@@ -5,7 +5,7 @@
 <table>
 <tbody>
 <tr valign="top">
-<td style="vertical-align:top;width:500px;margin: 0 auto;padding: 1em;"><img alt="" src="/images/IMG_DC_cropheadshot_resized_small.jpg" style="width: 500px; height: 666px;" /></td>
+<td style="vertical-align:top;width:500px;margin: 0 auto;padding: 1em;"><img alt="" src="/images/IMG_DC_cropheadshot_resized_small.jpg" class="responsive" style="width: 500px; height: 666px;" /></td>
 <td style="vertical-align:top;width:500px;margin: 0 auto;padding: 1em;">
     <p> <strong> Research Interests:</strong> I am interested in understanding how historically marginalized people are motivated and empowered, individually and collectively, to change institutions so that they better serve and address their needs. And then to better understand what impact, if any, they wield on the institution.</p>
     <p>&nbsp;</p>
